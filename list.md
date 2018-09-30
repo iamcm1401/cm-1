@@ -3,3 +3,4 @@
  - cod
 - pubg
 - farcry
+- battlefield
