@@ -4,3 +4,4 @@
 - pubg
 - farcry
 - battlefield
+- mafia3 
