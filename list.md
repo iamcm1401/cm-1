@@ -10,3 +10,5 @@
 - cricket
 - football
 - baseball
+- table tennis
+
