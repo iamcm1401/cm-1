@@ -5,3 +5,7 @@
 - farcry
 - battlefield
 - mafia3 
+
+## games
+- cricket
+- football
